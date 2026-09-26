@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shreyanshu2005/Leet/tree/master/0836-rectangle-overlap) |
+## Array
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/shreyanshu2005/Leet/tree/master/3668-restore-finishing-order) |
+## Hash Table
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/shreyanshu2005/Leet/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
