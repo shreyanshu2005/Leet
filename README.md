@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyanshu2005/Leet/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/shreyanshu2005/Leet/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyanshu2005/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreyanshu2005/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/shreyanshu2005/Leet/tree/master/1207-unique-number-of-occurrences) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyanshu2005/Leet/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/shreyanshu2005/Leet/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyanshu2005/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreyanshu2005/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/shreyanshu2005/Leet/tree/master/1207-unique-number-of-occurrences) |
@@ -38,6 +40,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shreyanshu2005/Leet/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyanshu2005/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreyanshu2005/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shreyanshu2005/Leet/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shreyanshu2005/Leet/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
