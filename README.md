@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/shreyanshu2005/Leet/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/shreyanshu2005/Leet/tree/master/0836-rectangle-overlap) |
 ## Geometry
 |  |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyanshu2005/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreyanshu2005/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/shreyanshu2005/Leet/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyanshu2005/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreyanshu2005/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/shreyanshu2005/Leet/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
