@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shreyanshu2005/Leet/tree/master/0383-ransom-note) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreyanshu2005/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/shreyanshu2005/Leet/tree/master/1207-unique-number-of-occurrences) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/shreyanshu2005/Leet/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3668-restore-finishing-order](https://github.com/shreyanshu2005/Leet/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shreyanshu2005/Leet/tree/master/0383-ransom-note) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shreyanshu2005/Leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyanshu2005/Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/shreyanshu2005/Leet/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Stack
 |  |
 | ------- |
