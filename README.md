@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shreyanshu2005/Leet/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyanshu2005/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreyanshu2005/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shreyanshu2005/Leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/shreyanshu2005/Leet/tree/master/1207-unique-number-of-occurrences) |
 | [3668-restore-finishing-order](https://github.com/shreyanshu2005/Leet/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyanshu2005/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreyanshu2005/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shreyanshu2005/Leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/shreyanshu2005/Leet/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
