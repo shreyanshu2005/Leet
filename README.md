@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shreyanshu2005/Leet/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/shreyanshu2005/Leet/tree/master/0836-rectangle-overlap) |
 | [1922-count-good-numbers](https://github.com/shreyanshu2005/Leet/tree/master/1922-count-good-numbers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/shreyanshu2005/Leet/tree/master/2769-find-the-maximum-achievable-number) |
 ## Geometry
 |  |
 | ------- |
